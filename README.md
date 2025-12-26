@@ -1,4 +1,5 @@
 # TensorFlow in Action
+<img src="https://github.com/Mardatillah/TensorFlow-in-Action/blob/d25b56f53ab67c7fb1d7d39dbbfb732ce88c7310/Cover.png" width="300" alt="Book Cover">
 
 ### Bab 1: The amazing world of TensorFlow
 
